@@ -1,0 +1,8 @@
+terraform.tfvars
+.vscode
+**/.terraform/
+*plan*.tfgraph
+plan
+terraform.tfstate
+*.tfstate
+*.tfstate.backup
