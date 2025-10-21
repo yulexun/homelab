@@ -97,6 +97,7 @@ variable "user_account" {
 
 variable "user_password" {
 	type = string
+	sensitive = true
 }
 
 variable "vmid" {

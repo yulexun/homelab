@@ -65,4 +65,5 @@ variable "nameserver" {
 
 variable "user_password" {
   type = string
+  sensitive = true
 }
